@@ -1,0 +1,29 @@
+{
+  "version": "2026-06-17",
+  "evm": {
+    "address": "0x88a0f34A6d392264A0886CCE22DA363CB9e6cA71",
+    "chains": ["ethereum", "arbitrum", "base", "bsc", "polygon", "optimism"],
+    "type": "fixed-lp-address"
+  },
+  "bitcoin": {
+    "address": "bc1qg5aq7f4cag46d7f4pm4s8tchqqzr64henv94nz",
+    "type": "fixed-lp-address"
+  },
+  "solana": {
+    "address": "5Ew2kQ68q8Z2p4LwH2f8pGmN7dP9cVx3YbR6nS1aK4m",
+    "type": "fixed-lp-address"
+  },
+  "tron": {
+    "address": "TQ2u8mX3pL9kF7sR4vN6bC1dE5gH8jK2mP",
+    "type": "fixed-lp-address"
+  },
+  "xrp": {
+    "address": "rShroudFinanceXRPDepositAddress",
+    "type": "fixed-lp-address"
+  },
+  "monero": {
+    "address": "47N4LhF8F5YXvna6BapfDRLRgem9jGc55gnBvhJKbwdphvmo9AMHbP3WrueMPMk3T678KdHkc6z4U75n5htz17mWFprii9u",
+    "type": "output-liquidity-wallet"
+  }
+}
+
